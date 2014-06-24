@@ -1,4 +1,4 @@
 HCViewEasyMake
 ==============
 
-Create, Add, Remove UIViews with no more boilerplate code.
+Create, Add, Remove UIViews with less boilerplate code.
