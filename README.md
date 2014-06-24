@@ -1,4 +1,4 @@
 UIViewEasyMake
 ==============
 
-Create, Add, Remove with no more Boiler plate code.
+Create, Add, Remove UIViews with no more boilerplate code.
