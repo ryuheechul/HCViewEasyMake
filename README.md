@@ -54,7 +54,7 @@ HCViewOnceGetter(UILabel, label, _label, lbl, ^{
 })
 ```
 
-## release 
+## Release 
 
 ### Two lines; And we forget to call removeFromSuperView a lot;
 
