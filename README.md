@@ -54,7 +54,7 @@ HCViewOnceGetter(UILabel, label, _label, lbl, ^{
 })
 ```
 
-## Release 
+## Release
 
 ### Two lines; And we forget to call removeFromSuperView a lot;
 
@@ -213,3 +213,29 @@ HCViewOnceGetter(UIButton, button, _button, btn, ^{
 Actually this is my first open-source contribution and I love to get yours too.
 
 send me pull requests or give me an idea to make this better!
+
+
+[![CI Status](http://img.shields.io/travis/Ryu Heechul/HCViewEasyMake.svg?style=flat)](https://travis-ci.org/Ryu Heechul/HCViewEasyMake)
+[![Version](https://img.shields.io/cocoapods/v/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
+[![License](https://img.shields.io/cocoapods/l/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
+[![Platform](https://img.shields.io/cocoapods/p/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
+
+## Usage
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+
+## Installation
+
+HCViewEasyMake is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+    pod "HCViewEasyMake"
+
+## Author
+
+Ryu Heechul, ryuhcii@gmail.com
+
+## License
+
+HCViewEasyMake is available under the MIT license. See the LICENSE file for more info.

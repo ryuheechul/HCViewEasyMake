@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (0.3.1)
+  - HCViewEasyMake (0.1.0)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - Expecta
+  - HCViewEasyMake (from `../`)
+  - Specta (~> 0.2.1)
+
+EXTERNAL SOURCES:
+  HCViewEasyMake:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  HCViewEasyMake: f1b1294aed5a359479d62d22ae8237b8726e3b5d
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.33.1

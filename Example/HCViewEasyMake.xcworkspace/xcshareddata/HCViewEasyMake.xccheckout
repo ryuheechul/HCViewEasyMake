@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>18408949-B165-4171-AF2A-174FFF3EFAE4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HCViewEasyMake</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9AF7A555-52F1-40C6-A7BA-D6E9CAD7B029</key>
+		<string>ssh://github.com/ryuheechul/HCViewEasyMake.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/HCViewEasyMake.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9AF7A555-52F1-40C6-A7BA-D6E9CAD7B029</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ryuheechul/HCViewEasyMake.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9AF7A555-52F1-40C6-A7BA-D6E9CAD7B029</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9AF7A555-52F1-40C6-A7BA-D6E9CAD7B029</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HCViewEasyMake</string>
+		</dict>
+	</array>
+</dict>
+</plist>
