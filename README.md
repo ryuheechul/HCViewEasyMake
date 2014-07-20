@@ -1,6 +1,11 @@
 HCViewEasyMake
 ==============
 
+[![Version](https://img.shields.io/cocoapods/v/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
+[![License](https://img.shields.io/cocoapods/l/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
+[![Platform](https://img.shields.io/cocoapods/p/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
+
+
 Create, Add, Remove UIViews with less boilerplate code.
 
 ## Features
@@ -213,11 +218,6 @@ HCViewOnceGetter(UIButton, button, _button, btn, ^{
 Actually this is my first open-source contribution and I love to get yours too.
 
 send me pull requests or give me an idea to make this better!
-
-
-[![Version](https://img.shields.io/cocoapods/v/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
-[![License](https://img.shields.io/cocoapods/l/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
-[![Platform](https://img.shields.io/cocoapods/p/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
 
 ## Usage
 
