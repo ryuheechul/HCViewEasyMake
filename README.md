@@ -215,7 +215,6 @@ Actually this is my first open-source contribution and I love to get yours too.
 send me pull requests or give me an idea to make this better!
 
 
-[![CI Status](http://img.shields.io/travis/Ryu Heechul/HCViewEasyMake.svg?style=flat)](https://travis-ci.org/Ryu Heechul/HCViewEasyMake)
 [![Version](https://img.shields.io/cocoapods/v/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
 [![License](https://img.shields.io/cocoapods/l/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
 [![Platform](https://img.shields.io/cocoapods/p/HCViewEasyMake.svg?style=flat)](http://cocoadocs.org/docsets/HCViewEasyMake)
